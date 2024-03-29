@@ -1,16 +1,11 @@
-# tp2
+# TP2 PROVIS 2024 C1
+Nabil Hanif Achmaddiredja <br>
+2205905 <br>
+Kelompok 3 
 
-A new Flutter project.
+## Detail Desain
+Halaman yang saya buat merupakan bagian dari Tugas Besar Provis 2024. Halaman ini digunakan untuk menampilkan laman pencarian doktor dari sebuah rumah sakit.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![Screenshot 2024-03-30 014248](https://github.com/NabilHanifA/TP2PROVIS2024C1/assets/133948088/ac8ba664-9369-4c52-9047-7709e1e1bb64)
+![Screenshot 2024-03-30 014300](https://github.com/NabilHanifA/TP2PROVIS2024C1/assets/133948088/31d17d92-37e1-4d0a-8625-ef6ab03e1307)
